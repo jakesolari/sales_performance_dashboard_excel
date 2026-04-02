@@ -1,4 +1,4 @@
-# sales_performance_dashboard_excel
+# sales-performance-dashboard-excel
 Interactive Excel dashboard analyzing 10,000+ sales transactions across regions, product categories, and sub-categories using PivotTables and PivotCharts.
 # Sales Performance Dashboard — Excel
 
